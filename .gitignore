@@ -1,1 +1,30 @@
+# Node.js modules
 node_modules
+
+# Firebase debug logs
+firebase-debug.log
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Firebase specific
+.firebase/
+firebase-debug.log
